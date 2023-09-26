@@ -11,11 +11,11 @@ Plats principaux (Jimmy)
 - Pizza
 
 Déssert (Nathan)
--
--
--
+-Cupcake
+-Gateau
+-Fondu au chocolat
 
 Boissons (Felix)
--
--
--
+-Jus d'orange
+-Pepsi
+-Vin rouge
