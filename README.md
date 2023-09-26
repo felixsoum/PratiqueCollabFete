@@ -6,9 +6,9 @@ Apéritif (William)
 - Petites bouchées
 
 Plats principaux (Jimmy)
--
--
--
+- Hot dogs
+- Spag
+- Pizza
 
 Déssert (Nathan)
 -
